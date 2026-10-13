@@ -39,4 +39,5 @@
     <string name="unknown_equipment">알 수 없는 기자재</string>
     <string name="back_to_list">기자재 목록으로</string>
     <string name="back_to_home">처음 화면으로</string>
+    <string name="navigation_bundle">✓ Navigation과 Bundle 데이터 전달</string>
 </resources>
