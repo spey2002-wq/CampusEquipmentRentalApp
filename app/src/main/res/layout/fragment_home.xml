@@ -7,42 +7,15 @@
     android:fillViewport="true">
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:gravity="center_horizontal"
-        android:padding="20dp">
-
-        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/bg_home_header"
-            android:gravity="center_horizontal"
             android:orientation="vertical"
             android:padding="28dp">
 
             <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/bag"
-            android:textSize="48sp"
-            android:layout_marginBottom="8dp"/>
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_2025621055"
-                android:textColor="@color/white"
-                android:textSize="18sp"
-                android:textStyle="bold"
-                android:layout_marginBottom="4dp"/>
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/rai_spandan"
-                android:textColor="@color/white"
-                android:textSize="16sp"/>
 
             <TextView
                 android:layout_width="wrap_content"
@@ -84,7 +57,6 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/recyclerview"
                 android:textColor="@color/text_primary"
                 android:textSize="16sp" />
 
@@ -92,7 +64,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                android:text="@string/data_class_adapter"
                 android:textColor="@color/text_primary"
                 android:textSize="16sp" />
 
@@ -100,7 +71,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                android:text="@string/navigation_bundle"
                 android:textColor="@color/text_primary"
                 android:textSize="16sp" />
         </LinearLayout>
@@ -121,5 +91,5 @@
             android:text="@string/home_note"
             android:textColor="@color/text_secondary"
             android:textSize="13sp" />
-        </LinearLayout>
+        </ScrollView>
 </ScrollView>
