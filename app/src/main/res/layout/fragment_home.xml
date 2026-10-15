@@ -24,14 +24,14 @@
             <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="🎒"
+            android:text="@string/bag"
             android:textSize="48sp"
             android:layout_marginBottom="8dp"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="2025621033"
+                android:text="@string/_2025621055"
                 android:textColor="@color/white"
                 android:textSize="18sp"
                 android:textStyle="bold"
@@ -40,7 +40,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="RAI DIVYA"
+                android:text="@string/rai_spandan"
                 android:textColor="@color/white"
                 android:textSize="16sp"/>
 
@@ -84,7 +84,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="✓ RecyclerView로 여러 데이터 표시"
+                android:text="@string/recyclerview"
                 android:textColor="@color/text_primary"
                 android:textSize="16sp" />
 
@@ -92,7 +92,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                android:text="✓ Data Class와 Adapter 연결"
+                android:text="@string/data_class_adapter"
                 android:textColor="@color/text_primary"
                 android:textSize="16sp" />
 

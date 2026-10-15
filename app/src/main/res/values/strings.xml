@@ -40,4 +40,9 @@
     <string name="back_to_list">기자재 목록으로</string>
     <string name="back_to_home">처음 화면으로</string>
     <string name="navigation_bundle">✓ Navigation과 Bundle 데이터 전달</string>
+    <string name="_2025621055">2025621055</string>
+    <string name="rai_spandan">RAI SPANDAN</string>
+    <string name="bag">🎒</string>
+    <string name="recyclerview">✓ RecyclerView로 여러 데이터 표시</string>
+    <string name="data_class_adapter">✓ Data Class와 Adapter 연결</string>
 </resources>
