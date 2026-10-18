@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">캠퍼스 기자재 대여</string>
+    <string name="home_bag_icon">🎒</string>
+    <string name="home_student_name">RAI SPANDAN</string>
+    <string name="home_student_id">2025621055</string>
     <string name="home_title">캠퍼스 기자재 대여</string>
     <string name="home_subtitle">수업과 프로젝트에 필요한 기자재를 확인하고 대여를 신청하세요.</string>
     <string name="learning_title">이번 실습에서 배우는 내용</string>
